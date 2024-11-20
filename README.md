@@ -15,7 +15,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=b1urrr&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages" width="500px"></div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b1urrr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
 
